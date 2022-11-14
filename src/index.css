@@ -1,0 +1,22 @@
+li {
+  list-style: none;
+  margin-right: 2rem;
+  margin-top: 30px;
+}
+.button-action-filter {
+  text-align: center;
+  margin: 20px 0px;
+}
+.btn-active, .btn-completed, .btn-all {
+  margin: 0px 10px;
+  border-radius: 25px;
+}
+
+.input-todo {
+  padding: 0px 30px;
+}
+.wrap-list-todo {
+  border: 1px solid black;
+  padding: 20px 0px;
+  margin: 0px 10px;
+}
